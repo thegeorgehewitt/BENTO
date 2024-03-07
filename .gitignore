@@ -1,0 +1,36 @@
+*.runtime
+
+#Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+
+#Auto-generated Visual Studio files
+.vs/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.pdb
+
+#Unity generated meta files
+*.meta
+
+#Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#Windows files
+Thumbs.db
+ehthumbs.db
+
+#MonoDevelop files
+*.pidb.meta
+
+#Custom build files
+*.apk
+*.unitypackage
